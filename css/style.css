@@ -1,0 +1,152 @@
+.header-line{
+	display: flex;
+	width: 1200px;
+	height: 700px;
+	justify-content: space-between;
+	align-items: baseline;
+	margin-top: 30px;
+	margin-left: 50px;
+	position: relative;
+
+}
+.right-header{
+	color: #3D37F1;
+	font-size: 20px;
+	font-style: bold;
+	
+}
+
+.left-header{
+	width: 195px;
+}
+
+.content-box1{
+	display: flex;
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-bottom: 200px;
+	position: absolute;
+	top: 200px;
+
+}
+.right-content{
+	width: 500px;
+	height: 450px;
+	margin-bottom: 80px;
+}
+
+.left-content{
+	width: 500px;
+	height: 450px;
+	font-size: 60px;
+	font-style: Bold;
+	color: #534D4D;
+	font-display:block;
+
+
+}
+.paragraph1{
+	color: #534D4D;
+	font-size: 20px;
+}
+.klick1{
+
+	margin-top: 90px;
+	display: flex;
+	justify-content: space-around;	
+	align-content: flex-end;
+	align-items: center;
+	border-radius: 38px;
+	background: #4540EF;
+	height: 50px;
+	width: 200px;
+	font-style: bold;
+	color: #ffff;
+	font-size: 19px;
+}
+.main-block2{
+	top: 1400px;
+	width: 1500px;
+	margin:0 auto;
+	background: #F8F8F8;
+
+}
+.maintext-block{
+	width: 550px;
+	height: 230px;
+	color: #3D37F1;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items: center;
+	justify-content:safe center;
+	margin-top: 10px;
+	margin-left: 500px;
+
+}
+.explain-text1{
+	margin-top: 10px;
+	width: 550px;
+	color: #5A5454;
+	text-align: center;
+
+
+}
+.explain-text2{
+	margin-top: 20px;
+	width: 550px;
+	color: #5A5454;
+	text-align: center;
+
+}
+
+
+/*.divline{
+	display: flex;
+	justify-content:space-between;
+	align-content: center;
+*/
+
+
+
+}
+.sameboxes{
+	width: 260px;
+	height: 360px;
+	background: #FBBA77;
+	border: #707070;
+	top: 50px;
+
+/*.icon-image {
+	top: 80px;
+	left: 100px;
+}
+
+.klick-box{
+	width: 110px;
+	height: 36px;
+	background: red;
+	border-radius: 23px;
+	align-content: center;
+	position: relative;
+}
+
+.justtext{
+	width: 300px;
+	height: 50px;
+	background: blue;
+	text-align: center;
+	left: 100px;
+	bottom: 40px;
+
+}
+.klick-text{
+	text-align: center;
+	position: absolute;
+
+}
+
+*/
